@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TP2Poo.Base.Persona">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2Poo.Elementos.Alumno">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Elementos\Alumno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2Poo.Elementos.Aula">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Elementos\Aula.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2Poo.Elementos.Clase">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAIAAA=</HashCode>
+      <FileName>Elementos\Clase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2Poo.Elementos.Curso">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAQAAAAAAAQAAACAAAA=</HashCode>
+      <FileName>Elementos\Curso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2Poo.Elementos.Instructor">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Elementos\Intructor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2Poo.Elementos.Materia">
+    <Position X="1" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Elementos\Materia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
